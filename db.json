@@ -1,0 +1,143 @@
+{
+  "dialogs": [
+    {
+      "_id": "6409c2d9c0db52112607d501",
+      "text": "Consectetur esse ut magna fugiat et mollit nisi magna minim laboris qui. Nostrud sint adipisicing pariatur eu consectetur Lorem veniam laborum ut laboris. Magna deserunt voluptate nulla proident quis est aliqua minim esse proident.",
+      "created_at": "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "a3q59c3487877cfb195e2d686",
+        "fullname": "Lillian Garrett",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "6409c2d91a16f759b4641398",
+      "text": "Velit irure consectetur est culpa nulla et culpa laborum consectetur pariatur mollit consectetur ad est. Elit enim incididunt incididunt veniam culpa adipisicing id Lorem elit veniam sunt velit nulla. Exercitation adipisicing exercitation labore commodo laboris pariatur ex quis nulla quis laborum esse dolor.",
+      "created_at": "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "61bp9c34802abfced3e91acbc",
+        "fullname": "Mayo Hunt",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "6409c2d9997078a681b58c9f",
+      "text": "Duis mollit sint nostrud aliqua Lorem reprehenderit adipisicing laborum. Est fugiat quis deserunt magna pariatur nulla. Ut et enim mollit aute ea dolore voluptate dolor in.",
+      "created_at": "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "9egm9c34849089803a18348db",
+        "fullname": "Audra Martin",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "6409c2d9d3ac47461dd7c7bc",
+      "text": "Do nulla reprehenderit magna Lorem officia enim do Lorem sint fugiat Lorem do. Enim enim cupidatat labore officia. Est deserunt eu aute enim.",
+      "created_at": "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "26409c3485a2748e6db6238c5",
+        "fullname": "Katharine Hammond",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "36409c348a0f720d4e6a34f79",
+      "text": "Aute tempor elit ex esse ea officia. Nisi officia fugiat voluptate aliqua eu. Sint labore aliqua culpa excepteur in.",
+      "created_at": "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "3i409c348a0f720d4e6a34f79",
+        "fullname": "Mcguire Patterson",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "6409c2d9a58fb50bb69a72f5",
+      "text": "Cupidatat ea officia cupidatat laboris pariatur aliqua ullamco deserunt ut tempor sunt culpa duis. Nisi eiusmod irure enim adipisicing. Do adipisicing sit mollit ut sit cillum.",
+      "created_at":  "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "f409c2d9d3609e78eaff34613",
+        "fullname": "Rachelle Calderon",
+        "avatar": null
+      }
+    },
+    {
+      "_id": "6409c2d96a7ae28d8a0e3036",
+      "text": "Pariatur eiusmod eiusmod quis est in elit enim sunt adipisicing laborum elit. Aute exercitation consectetur Lorem officia amet esse laboris qui. Sit consequat commodo excepteur consequat ullamco aliqua esse id minim.",
+      "created_at": "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "y409c2d98066feea2762f3283",
+        "fullname": "Sandra Chapman",
+        "avatar": null
+      }
+    }
+  ],
+  "messages": [
+    {
+      "_id": "6409c2d96a7ae28d8a0e3036",
+      "text": "Pariatur eiusmod eiusmod quis est in elit enim sunt adipisicing laborum elit. Aute exercitation consectetur Lorem officia amet esse laboris qui. Sit consequat commodo excepteur consequat ullamco aliqua esse id minim.",
+      "created_at": "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "y409c2d98066feea2762f3283",
+        "fullname": "Sandra Chapman",
+        "avatar": null
+      },
+      "dialog": "6409c2d9c0db52112607d501"
+    },
+    {
+      "_id": "6409c2d96a7ae28d8a0e3036",
+      "text": "Pariatur eiusmod eiusmod quis est in elit enim sunt adipisicing laborum elit. Aute exercitation consectetur Lorem officia amet esse laboris qui. Sit consequat commodo excepteur consequat ullamco aliqua esse id minim.",
+      "created_at": "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "y409c2d98066feea2762f3283",
+        "fullname": "Sandra Chapman",
+        "avatar": null
+      },
+      "dialog": "6409c2d9c0db52112607d501"
+    },
+    {
+      "_id": "6409c2d96a7ae28d8a0e3036",
+      "text": "Pariatur eiusmod eiusmod quis est in elit enim sunt adipisicing laborum elit. Aute exercitation consectetur Lorem officia amet esse laboris qui. Sit consequat commodo excepteur consequat ullamco aliqua esse id minim.",
+      "created_at": "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "y409c2d98066feea2762f3283",
+        "fullname": "Sandra Chapman",
+        "avatar": null
+      },
+      "dialog": "6409c2d9c0db52112607d501"
+    },
+    {
+      "_id": "6409c2d96a7ae28d8a0e3036",
+      "text": "Pariatur eiusmod eiusmod quis est in elit enim sunt adipisicing laborum elit. Aute exercitation consectetur Lorem officia amet esse laboris qui. Sit consequat commodo excepteur consequat ullamco aliqua esse id minim.",
+      "created_at": "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "y409c2d98066feea2762f3283",
+        "fullname": "Sandra Chapman",
+        "avatar": null
+      },
+      "dialog": "6409c2d9c0db52112607d501"
+    },
+    {
+      "_id": "6409c2d96a7ae28d8a0e3036",
+      "text": "Pariatur eiusmod eiusmod quis est in elit enim sunt adipisicing laborum elit. Aute exercitation consectetur Lorem officia amet esse laboris qui. Sit consequat commodo excepteur consequat ullamco aliqua esse id minim.",
+      "created_at": "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "y409c2d98066feea2762f3283",
+        "fullname": "Sandra Chapman",
+        "avatar": null
+      },
+      "dialog": "6409c2d9c0db52112607d501"
+    },
+    {
+      "_id": "6409c2d96a7ae28d8a0e3036",
+      "text": "Pariatur eiusmod eiusmod quis est in elit enim sunt adipisicing laborum elit. Aute exercitation consectetur Lorem officia amet esse laboris qui. Sit consequat commodo excepteur consequat ullamco aliqua esse id minim.",
+      "created_at": "1970-04-03T15:50:01Z",
+      "user": {
+        "_id": "y409c2d98066feea2762f3283",
+        "fullname": "Sandra Chapman",
+        "avatar": null
+      },
+      "dialog": "6409c2d9c0db52112607d501"
+    }
+  ]
+
+}
